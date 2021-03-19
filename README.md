@@ -1,1 +1,1 @@
-react-wather pogoda
+react-weather pogoda
